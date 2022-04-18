@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pankaj-more
 - 👀 I’m interested in Azure and Enterprise Integrations
-- 🌱 I’m currently Exploring - Networking
+- 🌱 I’m currently Exploring - Data & ML
 - 💞️ I’m looking to collaborate on - Reusable APIs
 - 📫 How to reach me - www.linkedin.com/in/pankaj-morea3033a45
 
